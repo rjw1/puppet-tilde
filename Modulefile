@@ -8,4 +8,4 @@ description 'Set up an ubuntu server like a tilde node'
 project_page 'https://github.com/nathanielksmith/puppet-tilde'
 
 # deps
-dependency 'jfryman/nginx', '== 0.1.1'
+dependency 'jfryman/nginx', '>= 0.1.1'
